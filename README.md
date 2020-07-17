@@ -1,3 +1,3 @@
 # ONG-BASE
 
-##Aplicativo para Origanizações não governamentais.
+#Aplicativo para Origanizações não governamentais.
